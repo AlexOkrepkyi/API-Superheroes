@@ -5,3 +5,5 @@ Tried to figure out the most powerful by the total sum of their stats and guess 
 
 * Man of Miracles (first mentioned in the Spawn #75) and 
 * One-Above-All (first mentioned in the Fantastic Four Vol 1 511).
+
+There is still a lot of work to do: who's the most powerful among different genders, species etc., however that is smth to be implemented somewhat later.
